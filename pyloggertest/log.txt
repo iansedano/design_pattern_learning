@@ -1,0 +1,2 @@
+[INFO] this is FYI
+[CRITICAL] this is a major f up
